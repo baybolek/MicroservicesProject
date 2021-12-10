@@ -1,1 +1,21 @@
 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
+
+
+$ curl -u baybolek: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 https://api.github.com/baybolek
+
+
+$ ssh-keygen -o -t rsa -C "aybolek.babaliyewa@gmail.com"
+
+SHA256:EOyr5C/SY5MYj9E9vrUaIqs8rkjarKfsv6ED2vSk/jU aybolek.babaliyewa@gmail.com
+
+
+$ cat ~/.ssh/id_rsa.pub
+
+
+git remote add origin https://baybolek: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@github.com/baybolek/MicroservicesProject.git
+
+
+curl -u username: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 https://api.github.com/baybolek
+
+
+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
